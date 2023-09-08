@@ -2,7 +2,7 @@
 
 #### I'm just a young computer programmer who is all about fun and always seeking new ways to make the world a happy place for everyone through the use of computers and technology 💻.
 
-- 🔭 I’m currently working on a couple of projects on C and Java respectively. One is a simple chess game programmed totally in C and the other is a treasure hunting game programmed in Java.
+- 🔭 I’m currently working on a project using C. It is a simple Tic Tac Toe (X and O) program.
 
 - 😁 I'm interested in programming and sports
   
