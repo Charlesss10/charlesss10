@@ -1,16 +1,14 @@
-### Hi there, I'm Charles, feel free to call me charlie 👋
+### Hi there, I'm Charles, but you can call me Charlie! 👋
 
-#### I'm just a young computer programmer who is all about fun and always seeking new ways to make the world a happy place for everyone through the use of computers and technology 💻.
+#### I'm a young computer programmer, passionate about infusing fun into everything I do, and constantly exploring innovative ways to spread joy worldwide through the power of computers and technology 💻
 
-- 🔭 I’m currently working on a project using C. It is a simple Tic Tac Toe (X and O) program.
-
-- 😁 I'm interested in programming and sports
+- 😁 Programming and sports are my two major interests
   
-- ✍🏽 I'm looking to finish my bachelors degree
+- ✍🏽 Currently, I'm working towards completing my bachelor's degree
 
-- 🚀 Join me on my journey to making the world a better place for everyone.
+- 🚀 Join me on my mission to create a happier world for everyone
 
-- 📫 How to reach me:
+- 📫 You can reach out to me via:
   - ☏ Mobile: +49 157 5300 3416
   - 📧 Email: ebosonc@gmail.com
   - #️⃣ LinkedIn: https://www.linkedin.com/in/charles-eboson   
