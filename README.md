@@ -6,8 +6,6 @@
   
 - ✍🏽 Currently, I'm working towards completing my bachelor's degree
 
-- 🚀 Join me on my mission to create a happier world for everyone
-
 - 📫 You can reach out to me via:
   - ☏ Mobile: +49 157 5300 3416
   - 📧 Email: ebosonc@gmail.com
