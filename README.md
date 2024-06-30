@@ -1,8 +1,6 @@
-### Hi there, I'm Charles, but you can call me Charlie! 👋
+### Hi there, I'm Charles👋
 
 #### I'm a young computer programmer, passionate about infusing fun into everything I do, and constantly exploring innovative ways to spread joy worldwide through the power of computers and technology 💻
-
-- 😁 Programming and sports are my two major interests
   
 - ✍🏽 Currently, I'm working towards completing my bachelor's degree
 
