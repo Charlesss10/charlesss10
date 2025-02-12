@@ -1,6 +1,6 @@
 ### Hi there, I'm Charles👋
 
-#### I'm a Software Engineer, passionate about infusing fun into everything I do, and constantly exploring innovative ways to spread joy worldwide through the power of computers and technology 💻
+#### I am a Software Engineer with a passion for leveraging technology to drive innovation and create impactful solutions. I am dedicated to exploring new ways to enhance systems, optimize processes, and deliver high-quality software that meets user needs.
 
 - 📫 You can reach out to me via:
   - ☏ Mobile: +49 157 5300 3416
